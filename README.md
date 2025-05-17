@@ -24,7 +24,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/YourUsername/ModernChessAI.git
+git clone https://github.com/ShahzaibRK/Modern-Chess-AI
 cd ModernChessAI
 
 (Optional) Create and activate a virtual environment:
